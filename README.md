@@ -2,4 +2,4 @@
 - 👀 I’m interested in DevOps, API development, Website development, Typescript, GraphQL, NextJS, React, Graphics design.
 - 🌱 I’m currently dealing with Java API development using Spring Boot & Event stream APIs (Kafka, Azure Event Hubs).
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: emil@emilolund.se.
+- 📫 How to reach me: emil@emilolund.dev.
